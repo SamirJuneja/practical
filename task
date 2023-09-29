@@ -77,3 +77,20 @@ protected void Page_Load(object sender, EventArgs e)
             GridView1.DataSource = dt;
             GridView1.DataBind();
         }
+
+----------------------------------------------------------------------------------------------------
+
+
+Creating of blogger Steps----->
+
+ First login with your Gmail account.
+ Select Google apps.
+ Select more and then blogger.
+ New re enters your password and login.
+ Just click continue.
+ Select new blog.
+ Write title select template and press ok.
+ Select new post.
+ Type message and select publish.
+ Select people whom you want to share and select done.
+ Now just select share.
